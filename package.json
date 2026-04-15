@@ -1,5 +1,5 @@
 {
   "dependencies":{
-    "is_even":"0.1.2"
+    "is-even":"0.1.2"
   }
 }
